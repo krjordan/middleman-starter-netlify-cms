@@ -1,5 +1,5 @@
 ---
-title: New Title
+title: Awesome New Post
 date: 2019-11-11T06:27:36.757Z
 description: An awesome new title
 image: /images/uploads/news_item-01.jpg
